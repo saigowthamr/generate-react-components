@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.heading{
+  font-weight: 600;
+  background-color: aliceblue;
+  color:rebeccapurple;
+}

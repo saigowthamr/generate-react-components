@@ -1,0 +1,15 @@
+.container{
+  width: 500px;
+  margin:1rem auto;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.795);
+  padding: 1rem;
+}
+
+.bg-color{
+  background-color: aliceblue;
+}
+
+.heading{
+  composes: heading from './index.css';
+  color: rgb(22, 22, 19);
+}
