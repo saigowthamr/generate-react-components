@@ -1,4 +1,4 @@
-# [Generate new react components](https://reactgo.com/react-generate-components/)
+# [Generate new react components](https://reactgo.com/generate-react-components/)
 
 
 ## Available Scripts
